@@ -1,5 +1,5 @@
 {
-  "extensions": { "recommendations": [] },
+  "extensions": { "recommendations": ["James-Yu.latex-workshop"] },
   "folders": [
     {
       "path": "."
